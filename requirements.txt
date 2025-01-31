@@ -1,0 +1,15 @@
+llama-index
+python-dotenv
+pydantic
+openai 
+numpy
+sciket-learn
+datasets
+transformers
+bitsandbytes 
+accelerate
+loralib
+peft
+torch
+ipywidgets
+huggingface_hub
