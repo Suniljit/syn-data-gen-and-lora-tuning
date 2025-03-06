@@ -1,4 +1,4 @@
-# LLM That Talks Like Donald Trump
+# Synthetic Data Generation and LLM Fine-Tuning using LoRA
 
 ## Introduction
 In this project, we will train a language model that speaks like Donald Trump. Throughout this project, we will perform the following tasks:
